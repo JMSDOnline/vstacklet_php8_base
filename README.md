@@ -1,2 +1,2 @@
 # vstacklet_php8_base
-php8 base templates for the VStacklet project
+php8 base templates for the [vStacklet](https://github.com/JMSDOnline/vstacklet) project
